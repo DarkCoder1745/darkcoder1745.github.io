@@ -16,7 +16,7 @@ html,body{
 
 
 .header{
-	background: url(image.jpg);
+	background: url('/image.jpg');
 	background-size: cover;
 	height: 100vh;
 	margin: 0;
@@ -51,7 +51,7 @@ html,body{
 .banner_down{
 	font-size: 36px;
 	margin: 0 auto;
-	padding: 50% 0 0 0;
+	padding: 30% 0 0 0;
 	text-decoration: none;
 	color: white;
 }
